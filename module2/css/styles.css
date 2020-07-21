@@ -21,7 +21,7 @@ p {
   border: solid black;
   background-color: #FF9900;
   position: absolute;
-  top: 7.7%;
+  top: 8%;
   width: 200px;
   height: 35px;
   text-align: center;
@@ -87,12 +87,12 @@ p {
   }
 
   #t2 {
-    top: 7.7%;
+    top: 8%;
     right: 34.29% 
   }
 
   #t3 {
-    top: 7.7%;
+    top: 8%;
     left: calc(100vw - 218px)
   }
 }
@@ -120,11 +120,11 @@ p {
   }
 
   #t2 {
-    top: 7.7%
+    top: 8%
   }
 
   #t3 {
-    top: 25.5%
+    top: 26.3%
   }
 }
 
@@ -139,10 +139,10 @@ p {
   }
   
   #t2 {
-    top: 25.5%
+    top: 26.3%
   }
 
   #t3 {
-    top: 43.3%
+    top: 44.7%
   }
 }
